@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import pages.GoogleSearchPageObjects;
-
+//Praveen advised Aishwarya
 public class GoogleSearchPageTest {
 	
 	private static WebDriver driver = null;
