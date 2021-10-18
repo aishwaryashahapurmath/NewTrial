@@ -1,0 +1,11 @@
+[INFO ] 2021-10-09 13:31:19.366 [main] Log4jDemo - Browser started
+[INFO ] 2021-10-09 13:31:55.675 [main] Log4jDemo - Browser started
+[INFO ] 2021-10-09 13:32:01.471 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2021-10-09 13:33:15.364 [main] Log4jDemo - Browser started
+[INFO ] 2021-10-09 13:33:21.088 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2021-10-09 18:29:58.317 [main] Log4jDemo - Browser started
+[INFO ] 2021-10-09 18:30:10.350 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2021-10-09 22:56:26.497 [main] Log4jDemo - Browser started
+[INFO ] 2021-10-09 22:56:30.640 [main] Log4jDemo - Navigated to google.com
+[INFO ] 2021-10-09 23:08:55.848 [main] Log4jDemo - Browser started
+[INFO ] 2021-10-09 23:09:04.748 [main] Log4jDemo - Navigated to google.com
